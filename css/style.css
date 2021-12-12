@@ -1,0 +1,9 @@
+.jumbotron-image{
+    background-image: url("../img/stars.jpg");
+    background-size: cover; 
+}
+.jumbotron-starwars{
+    background-image: url("../img/starwars.png");
+    background-size: cover;
+  
+}
